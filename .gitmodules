@@ -1,0 +1,3 @@
+[submodule "vendor/timemap"]
+	path = vendor/timemap
+	url = git://github.com/truth-seeker/timemap.git
